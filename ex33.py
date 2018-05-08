@@ -1,0 +1,35 @@
+
+print ('What is your name?')
+name = input('>>>>>> ')
+
+print ('Hi system admin {}, what is your user count?'.format(name))
+user_count = int(input('>>>>>> '))
+
+print ('Hi system admin {}, what is your counter speed?'.format(name))
+incrementer = int(input('>>>>>> '))
+# user_count = 100
+# incrementer = 1
+def number_counter(users, counter):
+    # i = 0
+    # numbers = []
+    #
+    # while i < users:
+    #     print ('At the top i is {}'.format(i))
+    #     numbers.append(i)
+    #
+    #     i = i + counter
+    #     print ('Number now: ', numbers)
+    #     print ('At the bottom i is {}'.format(i))
+    #
+    # print ('The numbers: ')
+    #
+    # for num in numbers:
+    #     print (num)
+
+    numbers = []
+    print ('The numbers: ')
+    for i in range(0, user_count, incrementer):
+        print ('{}'.format(i))
+        numbers.append(i)
+
+number_counter(user_count, incrementer)

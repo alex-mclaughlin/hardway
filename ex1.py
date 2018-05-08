@@ -4,5 +4,4 @@ print "Hello World"
 #print "It is fun"
 #print 'Yay! Printing.'
 #print "I'd much rather you not"
-#print 'I "said" do not touch this.'
-#print "I am still printing things"
+print 'this script is printing things'
