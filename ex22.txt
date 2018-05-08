@@ -1,0 +1,29 @@
+#list of terms that I have learned so far
+1)  print - this word will print whatever string to the console
+2)  # and ''' triple quotes are the way to create comments in Python
+3)  Python does math. addition (+), subtraction(-), division (/), multiplication (*)
+    modulo (%), (<) less-than, (>) greater-than, (<=) less-than-equal, (>=) greater-than-equal
+4)  ' ' Two quotes is how we denote a string
+5)  {0} inside a string combined with .format( what you need to put in the {0} spot in the string.
+6)  = is the assignment character. use the = character assign values to variables
+7)  formatter is a string operator that allows you to concatenate a string value
+    looks like 'This is a {} operator'.format('format')
+8)  \n is the escape character \/amp\/
+9)  \t is a character that will tab in the output
+10) raw_input() prompting is the function allows the user to input value into a script
+12) 'from library import modules' is how you use different pieces of code that are saved in other locations
+    this is adding features to your program via the python feature set
+13) when prompting and passing, set up argument (import argv) variables to collect information
+    from user that can be passed throughout the script when needed.
+    This is useful for collecting files from users for the script to operate on.
+14) open('filename', 'mode') is a built in function that returns an object of the 'file' type.
+    Mode is a parameter that is passed with the filename - 'r', 'w', 'a', 'b'(binary file)
+15) .read() is a built in function that allows for the extraction of a string that contains all
+    all the characters in the files
+16) .write() allows for a single line to be written to a file
+17) def function_name: is the beginning syntax for a function_name
+    see the function checklist from early exercise
+18) seriously study your function checklist. In fact go write a function.
+19) see function waves in response. now go write one more that that answers
+    the question at the bottom of exercise 21
+20) 
