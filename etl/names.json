@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Mary",
+        "age": 29,
+        "pet": "cat"
+    },
+    {
+        "name": "John",
+        "age": 22,
+        "pet": "dog"
+    }
+]
